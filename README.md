@@ -1,11 +1,11 @@
-|stats |  |
-|---------| ----|
-|Strength | 8 |
-|Intelligence | 17 |
-|dexterity | 13 |
-|constituition | 12  |
-|wisdom | 15 |
-|charisma |  10 |
+|stats | score  | modifier |
+|---------| ----|  ---:|
+|Strength | 8 |  -2|
+|Intelligence | 17 | +3 |
+|dexterity | 13 | +1 |
+|constituition | 12  | +1 |
+|wisdom | 15 | +2 |
+|charisma |  10 | +0 |
 
 | ------------- |:-------------:| -----:|
 
