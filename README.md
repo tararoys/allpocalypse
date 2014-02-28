@@ -1,3 +1,6 @@
+
+##statistics
+
 |stats | score  | modifier |
 |---------| ----|  ---:|
 |Strength | 8 |  -2|
@@ -7,7 +10,9 @@
 |wisdom | 15 | +2 |
 |charisma |  10 | +0 |
 
-| ------------- |:-------------:| -----:|
+
+##Hit Points
+
 
 allpocalypse
 ============
