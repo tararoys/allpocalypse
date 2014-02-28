@@ -1,10 +1,10 @@
-stats | 
-Strength | 8
-Intelligence | 17
-dexterity | 13
-constituition | 12  
-wisdom | 15
-charisma |  10
+|stats | 
+|Strength | 8
+|Intelligence | 17
+|dexterity | 13
+|constituition | 12  
+|wisdom | 15
+|charisma |  10
 
 
 allpocalypse
