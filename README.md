@@ -1,5 +1,19 @@
+stats | 
+Strength | 8
+Intelligence | 17
+dexterity | 13
+constituition | 12  
+wisdom | 15
+charisma |  10
+
+
 allpocalypse
 ============
+FIVE THINGS
+1. Choose two schools of magic to give up. I recommend Necromancy and Abjuration.
+2. Read over the zero and frist level spells located at: http://www.d20srd.org/srd/spellLists/sorcererWizardSpells.htm
+  -pick
+3. I guess it was only two things.
 
 The Hypertext d20 SRD - the ultimate d20 system reference
   Home > Magic Overview > Spell DescriptionsHypertext d20 SRD menu icon Pen, Paper, & Pixel menu icon d20 System menu icon
