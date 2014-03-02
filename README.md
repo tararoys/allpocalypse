@@ -1,5 +1,10 @@
 ##statistics
 
+Weapon:  
+Atlatl is the same as a sling. 
+
+
+
 |stats | score  | modifier |
 |---------| ----|  ---:|
 |Strength | 8 |  -2|
@@ -15,6 +20,9 @@
 - Base Attack Melee -2
 - Ranged +1
 - Weapons you know: Stone age weapons
+
+Weapon: atlatl.  
+3 arrows. 
 
 #5 hit points
 
