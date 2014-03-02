@@ -45,6 +45,7 @@ familair: snake <-- tell me about your line!
 
 -[ ]  Light:  object shines lke a torch for 10 minutes. 
       - 
+      
 -[ ] Read magic: read scrolls and spellbooks
       - read magical inscriptions on objects. Can read 10 pages of a type of magic.  
       
@@ -53,6 +54,7 @@ familair: snake <-- tell me about your line!
       - 1st round: presence or absence
       - 2nd round number of magical auras & strenthgh
       - 3rd round: strenght & locaion of each aura. 
+      
 -[ ] Daze
       - clouds the minds of of a humanoid of medium size or smaller so that he takes no action. 
       - can't move, cast spells for one round
