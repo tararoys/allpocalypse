@@ -39,6 +39,7 @@ familair: snake <-- tell me about your line!
       - 
 -[ ] Read magic: read scrolls and spellbooks
       - read magical inscriptions on objects. Can read 10 pages of a type of magic.  
+      
 -[ ] detect magic
       - Detect magical auras for one minute.  
       - 1st round: presence or absence
