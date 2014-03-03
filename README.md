@@ -43,7 +43,6 @@ familair: snake <-- tell me about your line!
 | 0  | level-- 4 |
 | 1st | level-- 1 |
 
-- [ ] a task list item
 
  - [ ] [Light](http://www.d20srd.org/srd/spells/light.htm):  
     - object shines lke a torch for 10 minutes. 
@@ -98,4 +97,6 @@ FIVE THINGS
 
 The Hypertext d20 SRD - the ultimate d20 system reference
   Home > Magic Overview > Spell DescriptionsHypertext d20 SRD menu icon Pen, Paper, & Pixel menu icon d20 System menu icon
-  
+
+
+
