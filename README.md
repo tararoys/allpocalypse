@@ -44,18 +44,10 @@ familair: snake <-- tell me about your line!
 | 1st | level-- 1 |
 
 
- - [ ] [Light](http://www.d20srd.org/srd/spells/light.htm):  
-    - object shines lke a torch for 10 minutes. 
-      - 
-      
- - [ ] [Read magic](http://www.d20srd.org/srd/spells/readMagic.htm):
-      - read magical inscriptions on objects. Can read 10 pages of a type of magic.  
-      
- - [ ] [detect magic](http://www.d20srd.org/srd/spells/detectMagic.htm)
-      
- - [ ] [Daze](http://www.d20srd.org/srd/spells/daze.htm)
-      - clouds the minds of of a humanoid of medium size or smaller so that he takes no action. 
-      - can't move, cast spells for one round
+- [ ] [Light](http://www.d20srd.org/srd/spells/light.htm):
+- [ ] [Read magic](http://www.d20srd.org/srd/spells/readMagic.htm):
+- [ ] [detect magic](http://www.d20srd.org/srd/spells/detectMagic.htm)
+- [ ] [Daze](http://www.d20srd.org/srd/spells/daze.htm)
 
 
 
