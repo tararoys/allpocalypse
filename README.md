@@ -49,8 +49,6 @@ familair: snake <-- tell me about your line!
 - [ ] [detect magic](http://www.d20srd.org/srd/spells/detectMagic.htm)
 - [ ] [Daze](http://www.d20srd.org/srd/spells/daze.htm)
 
-
-
 - [ ] [Alter Self](http://www.d20srd.org/srd/spells/alterSelf.htm)
         - 10 minutes
         - Make yourself look different for 10 minutes. 
