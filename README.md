@@ -43,24 +43,22 @@ familair: snake <-- tell me about your line!
 | 0  | level-- 4 |
 | 1st | level-- 1 |
 
--[ ]  Light:  object shines lke a torch for 10 minutes. 
+-[ ]  [Light](http://www.d20srd.org/srd/spells/light.htm):  
+ - object shines lke a torch for 10 minutes. 
       - 
       
--[ ] Read magic: read scrolls and spellbooks
+-[ ] [Read magic](http://www.d20srd.org/srd/spells/readMagic.htm):
       - read magical inscriptions on objects. Can read 10 pages of a type of magic.  
       
--[ ] detect magic
-      - Detect magical auras for one minute.  
-      - 1st round: presence or absence
-      - 2nd round number of magical auras & strenthgh
-      - 3rd round: strenght & locaion of each aura. 
+-[ ] [detect magic](http://www.d20srd.org/srd/spells/detectMagic.htm)
       
--[ ] Daze
+-[ ] [Daze](http://www.d20srd.org/srd/spells/daze.htm)
       - clouds the minds of of a humanoid of medium size or smaller so that he takes no action. 
       - can't move, cast spells for one round
 
 
-- [ ] Change Self
+
+- [ ] [Alter Self](http://www.d20srd.org/srd/spells/alterSelf.htm)
         - 10 minutes
         - Make yourself look different for 10 minutes. 
         - +10 bonus to disguise
