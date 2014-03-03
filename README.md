@@ -43,6 +43,8 @@ familair: snake <-- tell me about your line!
 | 0  | level-- 4 |
 | 1st | level-- 1 |
 
+- [ ] a task list item
+
  - [ ] [Light](http://www.d20srd.org/srd/spells/light.htm):  
     - object shines lke a torch for 10 minutes. 
       - 
